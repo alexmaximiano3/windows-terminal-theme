@@ -8,5 +8,5 @@ https://github.com/microsoft/cascadia-code
 The scheme is Dracula:
 https://draculatheme.com/windows-terminal
 
-
+![Image Windows Terminal](https://github.com/alexmaximiano3/windows-terminal-theme/blob/master/windows-terminal.png)
 
